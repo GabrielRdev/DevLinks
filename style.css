@@ -54,4 +54,6 @@ ul li a {
 
   backdrop-filter: blur(4px);
   -webkit-bacskdrop-filter: blur(4px);
+
+  text-decoration: none;
 }
